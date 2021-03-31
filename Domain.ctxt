@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Domain
+comment0.text=\n\ Write\ a\ description\ of\ interface\ Domain\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ input
+comment1.target=Domain(java.lang.String,\ java.lang.String)
+comment2.params=topics
+comment2.target=void\ set_topics(java.lang.String[])
+comment3.params=name
+comment3.target=void\ set_name(java.lang.String)
+comment4.params=input
+comment4.target=void\ set_input(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ get_name()
+comment6.params=
+comment6.target=java.lang.String\ get_input()
+comment7.params=
+comment7.target=java.lang.String[]\ get_topics()
+numComments=8
