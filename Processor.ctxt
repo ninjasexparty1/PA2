@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=
+comment1.target=java.util.List\ getInput()
+comment2.params=input
+comment2.target=void\ setInput(java.util.List)
+comment3.params=
+comment3.target=boolean\ takeInput()
+comment4.params=
+comment4.target=java.util.List\ processInput()
+comment5.params=refined_input
+comment5.target=Query\ genQuery(java.util.List)
+comment6.params=refined_input
+comment6.target=java.lang.String\ genOutput(java.util.List)
+comment7.params=key
+comment7.target=java.util.List\ parseForKey(java.lang.String)
+comment8.params=a\ x
+comment8.target=int\ binarySearch(java.lang.Comparable[],\ java.lang.Comparable)
+comment8.text=\n\ Performs\ the\ standard\ binary\ search\n\ using\ one\ comparison\ per\ level.\n\ @return\ index\ where\ item\ is\ found\ or\ NOT_FOUND\n
+numComments=9
